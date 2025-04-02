@@ -5,8 +5,8 @@ Este projeto consiste em um simulador de mobilidade urbana, desenvolvido como co
 ### 📌 Tecnologias e ferramentas:
 <div align="center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="60" height="60"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original-wordmark.svg" title="Maven" width="60" height="60"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Sumo_logo.png" title="SUMO" width="60" height="60"/> 
+<img src="https://e7.pngegg.com/pngimages/917/651/png-clipart-apache-maven-feathers-tech-companies.png" title="Maven" width="60" height="60"/> 
+<img src="https://projects.eclipse.org/sites/default/files/SUMO-Icon-and-Font-small.png" title="SUMO" width="60" height="60"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse" width="60" height="60"/> </div>
 
 
